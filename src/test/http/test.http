@@ -1,0 +1,5 @@
+###
+GET localhost:8101/health
+
+###
+GET localhost:8101/health/error?message=你好
